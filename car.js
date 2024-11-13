@@ -33,6 +33,7 @@ class ToyCar {
 
 
 // Create a toy car instance
+// all the details about the car is there
 const myToyCar = new ToyCar(
     "FJ40",
     "Red",
