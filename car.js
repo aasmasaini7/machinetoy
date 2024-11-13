@@ -1,4 +1,4 @@
-// information of the toy
+// information of the toy car
 class ToyCar {
     constructor(model, color, scale, material, price, weight, dimensions, manufacturer, ageRecommendation, features, stockQuantity, isLimitedEdition, releaseDate, batteryOperated, category) {
         this.model = model;
